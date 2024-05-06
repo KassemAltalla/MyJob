@@ -19100,32 +19100,33 @@
       },
       5105: (e, t, n) => {
         "use strict";
-        e.exports = "./static/media/987008.010a44a382fc09d8c439.jpg";
+        e.exports = n.p + "static/media/987008.010a44a382fc09d8c439.jpg";
       },
       5485: (e, t, n) => {
         "use strict";
         e.exports =
-          "./static/media/b5d844c08d0d72170d02e293581402fb.071653172acbe0dc7548.jpg";
+          n.p +
+          "static/media/b5d844c08d0d72170d02e293581402fb.071653172acbe0dc7548.jpg";
       },
       3258: (e, t, n) => {
         "use strict";
-        e.exports = "./static/media/original.83d7436e2196f5624391.jpg";
+        e.exports = n.p + "static/media/original.83d7436e2196f5624391.jpg";
       },
       7342: (e, t, n) => {
         "use strict";
-        e.exports = "./static/media/services-01.81fa5f99658a4fd86c21.jpg";
+        e.exports = n.p + "static/media/services-01.81fa5f99658a4fd86c21.jpg";
       },
       856: (e, t, n) => {
         "use strict";
-        e.exports = "./static/media/services-05.ec30aaf5a2835c3c5a9d.jpg";
+        e.exports = n.p + "static/media/services-05.ec30aaf5a2835c3c5a9d.jpg";
       },
       4343: (e, t, n) => {
         "use strict";
-        e.exports = "./static/media/services-06.c04dd34b1ab7d77e2776.jpg";
+        e.exports = n.p + "static/media/services-06.c04dd34b1ab7d77e2776.jpg";
       },
       1295: (e, t, n) => {
         "use strict";
-        e.exports = "./static/media/wp5762340.efdd74778b9b316d758c.jpg";
+        e.exports = n.p + "static/media/wp5762340.efdd74778b9b316d758c.jpg";
       },
       434: (e) => {
         function t() {
@@ -61963,7 +61964,8 @@
           });
         };
       const AP =
-          "./static/media/undraw_remotely_2j6y.c32d0b1852c09cad7ec0c2b48c389957.svg",
+          n.p +
+          "static/media/undraw_remotely_2j6y.c32d0b1852c09cad7ec0c2b48c389957.svg",
         FP = () => {
           const [e, n] = (0, t.useState)(""),
             [r, o] = (0, t.useState)(""),
@@ -62098,7 +62100,7 @@
             }),
           });
         };
-      const zP = "./static/media/work.251269275de5cc267fe083b7e55a2f42.svg";
+      const zP = n.p + "static/media/work.251269275de5cc267fe083b7e55a2f42.svg";
       var HP = n(3385);
       const BP = () => {
         const [e, n] = (0, t.useState)(!1),
@@ -62686,7 +62688,7 @@
             ],
           });
         },
-        nR = "./static/media/image.59b655cc85aa4e7a5ac5.png",
+        nR = n.p + "static/media/image.59b655cc85aa4e7a5ac5.png",
         rR = (e) => {
           const t = et(),
             n = e.data;
